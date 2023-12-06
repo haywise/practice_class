@@ -1,0 +1,2 @@
+today is tuesday
+we are doing devops
