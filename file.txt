@@ -1,2 +1,4 @@
 today is tuesday
 we are doing devops
+
+we are a student in the us
